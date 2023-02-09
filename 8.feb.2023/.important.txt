@@ -2,4 +2,3 @@
 1. using object literal
 2. By using instance of Object directly
 3. By using the constructor function
-
