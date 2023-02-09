@@ -1,0 +1,50 @@
+// Map and Set in js
+
+// Map is a data structure which holds elements as (key, value) pair, and keys in a map are unique.
+
+=====================================================================================
+
+//notes for Anagram
+
+let's have two string 
+first word may be => "word"
+second word may be => "drow"
+Now check both have equal numbers of character and should have same characters
+Thus, it means these two words are "Anagram". Also, the arrangment of those words may be different.
+=====PROPERTIES=====
+1. they should have same lenth
+2. the frequency of the every character in each string should be same
+
+let us consider an example
+took a word "eclectic"
+frequency=>
+e - 2
+c - 3
+l - 1
+t - 1
+i - 1
+now took another word "ctilcece"
+frequency=>
+c - 3
+t - 1
+i - 1
+l - 1
+e - 2
+So we can say that, these two above words are Anagrams.
+
+=====================================================================================
+
+// notes for first non reapeating character
+
+let the word => "character"
+first find frequency of character
+frequency=>
+c - 2
+h - 1
+a - 2
+r - 2
+t - 1
+e - 1
+thus the first non repeating character is "h"
+
+======================================================================================
