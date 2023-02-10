@@ -104,3 +104,26 @@ can be done by two pointer array
 // Note for cyclically rotate array by 1
 
 indexes should be +1 and last element will come at first position
+
+
+===================================================================================================================
+
+// Note for data structures types
+
+In JavaScript, there are several built-in data structures that you can use to store and organize data:
+
+Array: An ordered collection of elements, where each element can be of any data type.
+
+Object: An unordered collection of key-value pairs, where the keys can be strings or symbols and the values can be of any data type.
+
+Set: An unordered collection of unique elements, where each element can be of any data type.
+
+Map: An unordered collection of key-value pairs, where the keys can be of any data type.
+
+String: A sequence of characters, used to represent text.
+
+Number: A numeric value, used to represent numbers.
+
+Boolean: A binary value, used to represent true or false.
+
+In addition to these built-in data structures, you can also create custom data structures using combinations of these built-in data structures, or by using functions and prototypes.
