@@ -11,5 +11,7 @@ function subArrayWithSumZeroExists(arr) {
 }
 
 // invoke
-let array = [ 4, 2, -3, 1, 6 ];
+// let array = [ 4, 2, -3, 1, 6 ];
+let array = [ 4, 2, 3, 1, 10 ];
+// let array = [ -4, -2, -3, -1, -10 ];
 console.log(subArrayWithSumZeroExists(array));
