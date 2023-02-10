@@ -33,4 +33,5 @@ function isAnagram(str1, str2) {
 	return true;
 }
 
-console.log(isAnagram('earth', 'thear'));
+console.log(isAnagram('earthh', 'thhear'));
+// console.log(map.has('earth'[0]));
