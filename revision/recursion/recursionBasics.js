@@ -22,7 +22,7 @@ function fibonacci(n) {
 		return fibonacci(n - 1) + fibonacci(n - 2); // recursive case
 	}
 }
-console.log(factorial(5));
+// console.log(fibonacci(5));
 
 // In this example, the fibonacci function returns the nth number in the Fibonacci sequence. If n is 0 or 1, the base case is reached, and the function returns n. Otherwise, the function calls itself with n - 1 and n - 2 as arguments and adds the results to get the nth Fibonacci number.
 

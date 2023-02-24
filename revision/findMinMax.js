@@ -44,6 +44,24 @@ function findMax(arr) {
 let arr2 = [ 1, 23, 4, 567, 78, 56, 34 ];
 console.log(findMax(arr2));
 
+// find min and max combined ==== mine
+class Solution {
+	getMinMax(arr, n) {
+		//code here
+		let min = arr[0];
+		let max = 0;
+		for (let i = 0; i < n; i++) {
+			if (min > arr[i]) {
+				min = arr[i];
+			}
+			if (max < arr[i]) {
+				max = arr[i];
+			}
+		}
+		return [ min, max ];
+	}
+}
+
 // this is from c++
 // #include <iostream>
 

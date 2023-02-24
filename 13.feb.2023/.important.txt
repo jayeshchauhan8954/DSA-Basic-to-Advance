@@ -1,0 +1,7 @@
+//Recursion :- When a function call itself it is called recursion.
+
+// important to note
+// 1. base case
+// 2. recursively relation or the logic that you will perform in each function state
+// 3. changing te input size
+// 4. print the number
